@@ -1,7 +1,6 @@
 import React, { useRef} from 'react'
 import Typed from 'react-typed';
 import emailjs from '@emailjs/browser';
-import Alert from '@mui/material/Alert';
 import { useAlert } from 'react-alert';
 
 function Contacts() {
